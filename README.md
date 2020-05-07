@@ -3,7 +3,7 @@
 ##node server &&
 ###cd client run npm install
 ####run yarn start
-# README Boilerplate
+# README 
 
 A template of README best practices to make your README simple to understand and easy to use. 
 
