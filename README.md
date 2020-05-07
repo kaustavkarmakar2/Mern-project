@@ -1,5 +1,6 @@
 # Mern-project
 ##npm install &&
+##node server &&
 ###cd client run npm install
 ####run yarn start
 # README Boilerplate
